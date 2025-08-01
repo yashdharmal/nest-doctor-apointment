@@ -88,7 +88,3 @@ Swagger documentation is available at `/api` when the application is running.
 - `GET /appointments` - Get all appointments
 - `GET /appointments/:id` - Get a specific appointment
 - `GET /appointments/doctor/:doctorId` - Get all appointments for a doctor
-
-## License
-
-This project is MIT licensed.
